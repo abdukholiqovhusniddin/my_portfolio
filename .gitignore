@@ -1,0 +1,10 @@
+# Maxfiy konfiguratsiya fayllari
+appsettings.json
+appsettings.Development.json
+appsettings.*.json
+
+# Boshqa maxfiy fayllar
+*.env
+*.pfx
+*.key
+/secrets/
