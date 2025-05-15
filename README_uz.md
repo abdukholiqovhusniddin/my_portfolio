@@ -32,7 +32,7 @@ Bu loyiha orqali o‘zim haqimdagi ma’lumotlarni **professional, chiroyli va o
 1. Repozitoriyani clone qiling:
 
    ```bash
-   git clone https://github.com/abdukholiqovhusniddin/AboutMe.git
+   git clone https://github.com/abdukholiqovhusniddin/my_portfolio.git
    ```
 2. Loyiha katalogiga kiring:
 
