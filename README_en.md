@@ -32,13 +32,13 @@ With this project, I aim to present information about myself in a **professional
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/abdukholiqovhusniddin/my_profil.git
+   git clone https://github.com/abdukholiqovhusniddin/my_portfolio.git
    
 
 2. Navigate into the project folder:
 
    ```bash
-   cd AboutMe
+   cd my_portfolio/AboutMe
    ```
 
 3. Restore the packages:
