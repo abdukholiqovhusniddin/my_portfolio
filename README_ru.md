@@ -32,12 +32,12 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/abdukholiqovhusniddin/my_profil.git
+   git clone https://github.com/abdukholiqovhusniddin/my_portfolio.git
 
 2. Перейдите в каталог проекта:
 
    ```bash
-   cd AboutMe
+   cd my_portfolio/AboutMe
    ```
 
 3. Установите пакеты:
