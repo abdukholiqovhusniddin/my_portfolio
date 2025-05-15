@@ -37,7 +37,7 @@ Bu loyiha orqali o‘zim haqimdagi ma’lumotlarni **professional, chiroyli va o
 2. Loyiha katalogiga kiring:
 
    ```bash
-   cd AboutMe
+   cd my_portfolio/AboutMe
    ```
 3. Paketlarni o‘rnating:
 
